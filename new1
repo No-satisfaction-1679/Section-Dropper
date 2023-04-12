@@ -1,6 +1,0 @@
-Final droppper:
-- shellcode == Metaspolit (explorer.exe)
-- extract shellcode from .txt 
-- decrypt shellcode (XOR)
-- inject shellcode into exploerr.exe
-- get rid pop-up
