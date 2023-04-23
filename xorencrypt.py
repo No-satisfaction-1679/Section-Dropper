@@ -1,7 +1,3 @@
-# Red Team Operator course code template
-# payload encryption with XOR
-#
-# author: reenz0h (twitter: @sektor7net)
 
 import sys
 
